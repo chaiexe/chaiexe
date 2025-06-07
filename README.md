@@ -7,7 +7,8 @@
 Each write-up I share highlights not just what I’ve learned, but how I understand new concepts and approach problem-solving.
 Cybersecurity is my field of passion — Welcome.</p>
 
-📝 Currently studying: 
-- 🔐 Web Application Pentesting (Burp Suite, OWASP Top 10, & OSINT techniques)
-- 📈 Splunk (log analysis, threat detection, & dashboards)
+🎲 Areas I Enjoy Working In
+- Web application pentesting (especially CTFs)
+- Log analysis & threat detection (Splunk is my current playground)
+- Studying the origins of tech — e.g, how operating systems and file structures like Linux & Windows came to be
 
